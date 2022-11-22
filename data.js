@@ -34,4 +34,8 @@ var allSubjects = {
         "Livstilssygdomme", "Epidemier", "radioaktivitet", "Kønssygdomme", 
         "Nikotin"
     ],
+
+    Historie: [
+        "Den Kolde Krig", "Romerriget", "Rusland", "1. verdenskrig", "2. verdenskrig"
+    ],
 }
