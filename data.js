@@ -6,27 +6,27 @@ var allSubjects = {
     ],
 
     Matematik: [
-        "Differentialligninger", "Vektorer i rummet", "Matrix", "Statistik",
-        "Sandsynlighedsregning", "Vektorfunktioner", "Integralregning", 
-        "Trigonometriske funktioner", "Differentialregning", "Matematiske modeller",
+        "differentialligninger", "vektorer i rummet", "Matrix", "Statestik",
+        "Sandsynlighedsregning", "Vector funktioner", "Intergralrening", 
+        "Trigonomitriske funktioner", "Differentialregning", "Matematiske modeller",
         "Matematik i historien(græsk, egypten)", "Historiens matematikere"
     ],
 
     Samfundsfag: [
 
-        "Dansk politik", "International politik", "Økonomi", "Sociologi", "Folkestyret og grundloven", "Velfærd", "EU"
+        "Dansk polotik", "International politik", "Økonomi", "Sociologi", "Folkestyret og grundloven", "velfærd", "EU"
     ],
     Engelsk: [
         "Retorik", "New Zealand", "Africa", "Post-modernisme", 
-        "Dystopi", "Victorian age", "Shakespeare", "Nordamerika's historie", 
+        "Dystopi", "Victorian age", "Shakespeare", "Nordamerikas historie", 
         "Racisme", "Horror"
     ],
 
     Fysik: [
-        "Relativitetsteori", "Harmoniske svingninger", "Varmeenergi", 
-        "Aerodynamik", "Exoplaneter", "Atomkraft", "Mekanik", "Banekurver", "Bølger", 
+        "Relativitetsteori", "harmoniske svinginer", "varme energi", 
+        "Aerodynamik", "exoplaneter", "Atomkraft", "Mekanik", "banekurver", "Bølger", 
         "GPS-systemer", "Ellære", "Radioaktivitet", "Mørkt stof", "Kvantemekanik", 
-        "Tyngdekraft", "Intertimomenter", "Vedvarende energi", "Raketfysik"
+        "Tyngdekraft", "Inertimoment", "Vedvarende energi", "Raketfysik"
     ],
 
     Bioteknologi: [
