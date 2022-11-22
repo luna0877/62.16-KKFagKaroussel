@@ -13,7 +13,7 @@ var allSubjects = {
     ],
 
     Samfundsfag: [
-        "Dansk polotik", "International politik", "Økonomi"
+        "Dansk polotik", "International politik", "Økonomi", "Sociologi", 
     ],
 
     Engelsk: [
