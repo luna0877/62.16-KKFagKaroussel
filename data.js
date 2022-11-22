@@ -13,9 +13,9 @@ var allSubjects = {
     ],
 
     Samfundsfag: [
-<<<<<<< HEAD
-        "Dansk polotik", "International politik", "Økonomi", "Sociologi", 
-        
+
+        "Dansk polotik", "International politik", "Økonomi", "Sociologi", "Folkestyret og grundloven", "velfærd", "EU"
+    ],
     Engelsk: [
         "Retorik", "New Zealand", "Africa", "Post-modernisme", 
         "Dystopi", "Victorian age", "Shakespeare", "Nordamerika's historie", 
