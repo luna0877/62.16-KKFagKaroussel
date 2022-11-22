@@ -30,7 +30,7 @@ var allSubjects = {
     ],
 
     Bioteknologi: [
-        "Cloning", "Nanoteknologi", "Genmodifikation", "Kræftceller", 
+        "Kloning", "Nanoteknologi", "Genmodifikation", "Kræftceller", 
         "Livstilssygdomme", "Epidemier", "Radioaktivitet", "Kønssygdomme", 
         "Nikotin"
     ],
