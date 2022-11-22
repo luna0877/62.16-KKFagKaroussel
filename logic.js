@@ -52,11 +52,13 @@ function randomSubjects(disciplinePair, allSubjects) {
  * @returns 
  */
 function makePrompt(disciplinePair, subjectPair) {
-    return "Første fag :  " + " " + disciplinePair[0]+ "</br>" + "Emnet er: " + subjectPair[0]
+    return "Første fag :  " + " " + disciplinePair[0]+ "</br>" +
+     "Emnet er: " + subjectPair[0]
     
     + "<br>" + "<br>"
 
-        + "Andet fag er:" +" "+ disciplinePair[1] + "<br>" + " Emnet er : " + " " + subjectPair[1];
+        + "Andet fag er:" +" "+ disciplinePair[1] + "<br>" 
+        + " Emnet er : " + " " + subjectPair[1];
 }
 
 	
