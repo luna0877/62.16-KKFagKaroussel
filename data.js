@@ -24,7 +24,7 @@ var allSubjects = {
 
     Fysik: [
         "Relativitetsteori", "Harmoniske svingninger", "Varmeenergi", 
-        "Aerodynamik", "exoplaneter", "Atomkraft", "Mekanik", "Banekurver", "Bølger", 
+        "Aerodynamik", "Exoplaneter", "Atomkraft", "Mekanik", "Banekurver", "Bølger", 
         "GPS-systemer", "Ellære", "Radioaktivitet", "Mørkt stof", "Kvantemekanik", 
         "Tyngdekraft", "Intertimomenter", "Vedvarende energi", "Raketfysik"
     ],
