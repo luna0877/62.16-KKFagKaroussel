@@ -16,6 +16,8 @@ function loadPrompt(allSubjects) {
  * @param {*} allSubjects 
  * @returns 
  */
+
+
 function randomDisciplines(allSubjects) {
     return ["Informatik", pickRandom(Object.keys(allSubjects))];
 }
@@ -50,7 +52,11 @@ function randomSubjects(disciplinePair, allSubjects) {
  * @returns 
  */
 function makePrompt(disciplinePair, subjectPair) {
-    return "første fag er:" + disciplinePair[0] + "emnet er: " + subjectPair[0] 
-        + "andet fag er:" + disciplinePair[1] + " emnet er: " + subjectPair[1];
+    return "Første fag :  " + " " + disciplinePair[0]+ "</br>" + "Emnet er: " + subjectPair[0]
+    
+    + "<br>" + "<br>"
+
+        + "Andet fag er:" +" "+ disciplinePair[1] + "<br>" + " Emnet er : " + " " + subjectPair[1];
 }
 
+	
