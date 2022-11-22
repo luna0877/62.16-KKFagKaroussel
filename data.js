@@ -1,8 +1,8 @@
 var allSubjects = {
     Informatik: [
-        "funktioner", "animationer", "IT-sikkerhed", "Hackere", 
-        "Sociale Medier", "Robot teknologi", "Talsystemer", "Kodesprog", 
-        "Computeren", "Kryptering", "Cloud/Database/Datalagring", "Programering"
+        "Funktioner", "Animationer", "IT-sikkerhed", "Hackere", 
+        "Sociale Medier", "Robotteknologi", "Talsystemer", "Kodesprog", 
+        "Computeren", "Kryptering", "Cloud/Database/Datalagring", "Programmering"
     ],
 
     Matematik: [
@@ -13,7 +13,7 @@ var allSubjects = {
     ],
 
     Samfundsfag: [
-        "Dansk polotik", "International politik", "Økonomi"
+        "Dansk politik", "International politik", "Økonomi",""
     ],
 
     Engelsk: [
@@ -24,7 +24,7 @@ var allSubjects = {
 
     Fysik: [
         "Relativitetsteori", "harmoniske svinginer", "varme energi", 
-        "aerodynamik", "exoplaneter", "Atomkraft", "Mekanik", "banekurver", "Bølger", 
+        "Aerodynamik", "exoplaneter", "Atomkraft", "Mekanik", "banekurver", "Bølger", 
         "GPS-systemer", "Ellære", "Radioaktivitet", "Mørkt stof", "Kvantemekanik", 
         "Tyngdekraft", "Intertimomenter", "Vedvarende energi", "Raketfysik"
     ],
