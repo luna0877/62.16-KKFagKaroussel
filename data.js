@@ -6,7 +6,7 @@ var allSubjects = {
     ],
 
     Matematik: [
-        "Differentialligninger", "Vektorer i rummet", "Matrix", "Statestik",
+        "Differentialligninger", "Vektorer i rummet", "Matrix", "Statistik",
         "Sandsynlighedsregning", "Vektorfunktioner", "Integralregning", 
         "Trigonometriske funktioner", "Differentialregning", "Matematiske modeller",
         "Matematik i historien(græsk, egypten)", "Historiens matematikere"
@@ -14,7 +14,7 @@ var allSubjects = {
 
     Samfundsfag: [
 
-        "Dansk polotik", "International politik", "Økonomi", "Sociologi", "Folkestyret og grundloven", "velfærd", "EU"
+        "Dansk politik", "International politik", "Økonomi", "Sociologi", "Folkestyret og grundloven", "Velfærd", "EU"
     ],
     Engelsk: [
         "Retorik", "New Zealand", "Africa", "Post-modernisme", 
